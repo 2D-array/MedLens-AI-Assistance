@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "505729366478",
+    "project_id": "medlens-eb303",
+    "storage_bucket": "medlens-eb303.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:505729366478:android:46f4b67ba8d54b9d7f539f",
+        "android_client_info": {
+          "package_name": "com.example.medlens"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "505729366478-qupvv1780n5gsl4uopgfpr7susva5s6r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.medlens",
+            "certificate_hash": "3a9f5117dd4f38f46a8734e2223955947ded7156"
+          }
+        },
+        {
+          "client_id": "505729366478-983nqplr030bkejcmi28hgin0su7eo3b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCX53GM4rXViI2axkLW9XTpCs5Hyb1Ik5I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "505729366478-983nqplr030bkejcmi28hgin0su7eo3b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
